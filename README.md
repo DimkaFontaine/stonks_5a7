@@ -8,7 +8,7 @@ pip install -r requirements.txt
 change name of `.env.sample` to `.env` and add the Access token (in Credentials on Square Developer)
 
 ## Use
-add ```from square_sdk import SquareAPI``` in file to get acces to SquareAPI
+add ```from square_sdk import SquareAPI``` in files to get acces to SquareAPI
 
 Example:
 ```
