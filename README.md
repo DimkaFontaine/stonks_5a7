@@ -9,6 +9,7 @@ change name of `.env.sample` to `.env` and add the Access token (in Credentials 
 
 ## Use
 add ```from square_sdk import SquareAPI``` in file to get acces to SquareAPI
+
 Example:
 ```
 from square_sdk import SquareAPI
